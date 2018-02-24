@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Moviepad</string>
+    <string name="add_movie">Add Movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_add_movie_list">Movie Name</string>
+    <string name="positive_button_create">Add Task</string>
+    <string name="browse_movies">Browse Movies</string>
+
+    <string name="YouTube_API_KEY">AIzaSyAjM3HsCGtEMMEJDT9Rua9ytsilG8dRaGQ</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="movie_filter">Movie Filter</string>
+    <string name="search">Search</string>
+    <string name="genre">Filter by Genre</string>
+    <string name="action">Action</string>
+    <string name="adventure">Adventure</string>
+    <string name="animation">Animation</string>
+    <string name="comedy">Comedy</string>
+    <string name="sci_fi">Sci-Fi</string>
+    <string name="horror">Horror</string>
+    <string name="drama">Drama</string>
+    <string name="mystery">Mystery</string>
+    <string name="romance">Romance</string>
+    <string name="search_hint">Movie Name</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="rate_me">Rate me</string>
+    <string name="about">About</string>
+    <string name="nerdgeeks_developer">© NerdGeeks Developer</string>
+    <string name="version_name">Version Name : 1.0</string>
+    <string name="version_code">Version Code : 1</string>
+    <string name="player_banner">ca-app-pub-9551927371844997/2732674748</string>
+    <string name="native_ad">ca-app-pub-3940256099942544/2793859312</string>  <!-- Main code- ca-app-pub-9551927371844997/8698305530-->
+    <string name="Interstitial">ca-app-pub-3940256099942544/1033173712</string> <!-- Main code- ca-app-pub-9551927371844997/9800699873-->
+
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "926434504476",
+    "firebase_url": "https://cinetodo-883ba.firebaseio.com",
+    "project_id": "cinetodo-883ba",
+    "storage_bucket": "cinetodo-883ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926434504476:android:f4072ba95ad0b724",
+        "android_client_info": {
+          "package_name": "com.nerdgeeks.cinetodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926434504476-8nn76ndruvngpjj7a26rinbf8d4lhqvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nerdgeeks.cinetodo",
+            "certificate_hash": "3cf00a319c3dd029bbf8cf34d1f221019f6ef2f8"
+          }
+        },
+        {
+          "client_id": "926434504476-egdq0lhrj4tudv3vca945ovc3dgf41uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwsTCXx81NDmaQ1D_0W4_NZqn9ohuGokU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926434504476-egdq0lhrj4tudv3vca945ovc3dgf41uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
